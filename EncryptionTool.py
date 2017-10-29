@@ -97,4 +97,5 @@ output.close()
 #read and decrypts
 print(readAndDecrypt("encrypted.txt"))
 
+print ('hahhaha')
     
