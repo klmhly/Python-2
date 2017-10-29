@@ -17,3 +17,4 @@ print(x)
 ###Asks user to enter something, ie. a number option from a menu.
 ###While type != interger, and not in the given range,
 ###Program gives error message and asks for new input.
+##PLEASE ALL APPRY
